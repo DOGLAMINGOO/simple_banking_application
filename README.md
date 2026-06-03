@@ -15,8 +15,4 @@ Key features:
 - Persistence with Spring Data JPA repositories
 - DTOs and mapper layer to separate API models from entities
 
-Run:
-- Configure database in `src/main/resources/application.properties`.
-- Start with the Maven wrapper: `./mvnw spring-boot:run`.
 
-That's it — concise and focused for learning Spring Boot.
